@@ -18,7 +18,7 @@ et l'url de votre base de données MongoDb
 # Architecture de la base de données MONGODB
 
 
-![Alt text](Chat%20app.jpg?raw=true "Title")
+![Alt text](Chat%20app.jpeg?raw=true "Title")
 
 
 
